@@ -9,7 +9,7 @@
 - 👯 Eager to collaborate on **open-source projects, hackathons, and student tech communities**
 - 🥅 **2025 Goals:** Build impactful projects, contribute to open-source, and improve DSA and system design skills
 - 📫 Reach me at: **parvathyunnikrishnan1234@gmail.com**
-- 💬 Ask me about **React, problem-solving, DSA, and web development**
+- 💬 Ask me about **Problem-solving, DSA, and web development**
 
 ---
 
@@ -17,9 +17,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
@@ -28,7 +26,7 @@
 Here are a few of my favorite projects — check them out!
 
 - [**Habit Tracker App**](https://github.com/Parvathy333/habit-tracker-app) — A clean, responsive web app to help users track their habits and routines.
-- [**Recipe Blog App**](https://github.com/Parvathy333/recipe-blog-app) — A beautifully designed recipe-sharing platform using React.
+- [**Recipe Blog App**](https://github.com/Parvathy333/recipe-blog-app) — A beautifully designed recipe-sharing platform.
 
 > *I’m currently working on a **DSA Code Explainer App** that visualizes algorithms with flowcharts and logic explanations — stay tuned!*
 
