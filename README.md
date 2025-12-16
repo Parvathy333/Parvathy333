@@ -69,14 +69,17 @@ Instant messaging app using real-time communication.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parvathy333&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Parvathy333&theme=tokyo-night&hide_border=true&area=true&line=5BCDEC&point=FFFFFF"
+    alt="Parvathy Unnikrishnan's GitHub contribution activity"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parvathy333&theme=tokyonight" />
+  <em>Shows my GitHub contribution activity over time.</em>
 </p>
 
 ---
