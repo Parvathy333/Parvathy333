@@ -53,7 +53,12 @@ A private AI friend with **voice input/output**, **local memory**, and **custom 
 AI-powered learning platform with structured summaries, quizzes, and flashcards.  
 - Frontend: HTML + JavaScript + CSS
 - Backend: FastAPI + Render deployment
-🌐 Live: https://bytelearn-frontend.vercel.app/ 
+🌐 Live: https://bytelearn-frontend.vercel.app/
+
+### 🔹 E.V.E. System – AI-powered Multi-Worker Platform  
+A scalable, intelligent system for orchestrating automated workers and integrating AI components.  
+- Languages: JavaScript (70.7%), Python (22.2%), CSS (6%), Other (1.1%)  
+- Main repo: https://github.com/E-V-E-Engine/eve-system-master
 
 ### 🔹 Habit Tracker App  
 Clean, responsive habit-tracking application.  
